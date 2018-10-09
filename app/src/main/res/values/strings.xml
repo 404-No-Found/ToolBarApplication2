@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToolBarApplication</string>
+    <string name="drawer_close">这是我老婆，不接受反驳</string>
+    <string name="drawer_open">内容界面</string>
+</resources>
